@@ -1,8 +1,8 @@
-import Loader from '@/components/Loader'
-import Hero from '@/components/Hero'
-import Terminal from '@/components/Terminal'
-import NowPlaying from '@/components/NowPlaying'
-import Projects from '@/components/Projects'
+import Loader from '../components/Loader'
+import Hero from '../components/Hero'
+import Terminal from '../components/Terminal'
+import NowPlaying from '../components/NowPlaying'
+import Projects from '../components/Projects'
 
 export default function Page() {
   return (
