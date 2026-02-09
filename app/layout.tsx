@@ -6,7 +6,7 @@ export const metadata = {
   openGraph: {
     title: 'Thereal_VoltageLord',
     description: 'Breaking limits with code ⚡',
-    images: ['/Volt.png'],
+    images: ['/launcher_1765346563997.jpg'],
   },
 }
 
